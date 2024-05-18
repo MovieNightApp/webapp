@@ -73,7 +73,7 @@ function ResetPassword() {
       <div className="max-w-96 w-full flex flex-col gap-4 items-center">
         <AppTitle />
         <h2 className="text-2xl">Password Reset</h2>
-        {!submitReset.isSuccess ? (
+        {submitReset.isSuccess ? (
           <div className="text-center flex flex-col">
             <span>Successfully reset password</span>
             <span>Head back to the app to login!</span>
