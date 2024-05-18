@@ -1,0 +1,44 @@
+Privacy Policy:
+
+We take your privacy seriously at Movie Night. This policy describes how we collect, use, and share information about you when you use our app.
+
+Information we collect:
+
+User account information: When you sign up for Movie Night, we collect your email address, username. and a hash of your password (if you use our inbuilt auth mechanisms).
+Watchlist information: We collect information about the movies and TV shows you add to your watchlist.
+Device information: We collect information about your device, including your device type, operating system, and IP address.
+Usage data: We collect data on how you use our app, such as which features you use and how often you use them.
+
+
+How we use your information:
+
+To provide and improve our services: We use your information to provide you with personalized recommendations and improve our app.
+To communicate with you: We may use your email address to send you app-related notifications and updates.
+To prevent fraud and protect our users: We may use your information to detect and prevent fraudulent activity or unauthorized access to our app.
+
+
+How we share your information:
+
+With third-party service providers: We may share your information with third-party service providers who help us provide and improve our app.
+As required by law: We may disclose your information if required to do so by law, or if we believe that such action is necessary to comply with the law or protect our rights.
+
+
+Data retention:
+
+We will retain your information for as long as necessary to provide our services and comply with our legal obligations.
+
+
+Security:
+
+We take reasonable measures to protect your information from unauthorized access, disclosure, or destruction.
+
+
+Changes to this policy:
+
+We may update this policy from time to time. If we make significant changes, we will notify you by email or by posting a notice in the app.
+
+
+Contact us:
+
+If you have any questions or concerns about this privacy policy, please contact us at support@cjmckenzie.com.
+By using our app, you agree to the terms of this privacy policy.
