@@ -44,7 +44,7 @@ function Index() {
             height="250px"
             alt="MovieNight App Logo"
           />
-          <h1 className="text-5xl font-extrabold m-0 text-center">
+          <h1 className="text-5xl font-extrabold m-0 text-center flex gap-3">
             Make <AppTitle /> simple
           </h1>
           <p className="text-xl text-center m-0 mt-6">
