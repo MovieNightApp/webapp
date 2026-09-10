@@ -1,8 +1,23 @@
 {
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/"
-    }
-  ]
+	"rewrites": [
+		{
+			"source": "/privacy",
+			"destination": "/privacy/index.html"
+		},
+		{
+			"source": "/terms",
+			"destination": "/terms/index.html"
+		},
+		{
+			"source": "/(.*)",
+			"destination": "/"
+		}
+	],
+	"redirects": [
+		{
+			"source": "/privacy-policy.txt",
+			"destination": "/privacy",
+			"permanent": true
+		}
+	]
 }

@@ -1,44 +1,76 @@
-Privacy Policy:
+Privacy Policy
+Last updated 9 September 2026
 
-We take your privacy seriously at Movie Night. This policy describes how we collect, use, and share information about you when you use our app.
+Who we are
 
-Information we collect:
+MovieNight helps you discover films and TV shows, keep a watchlist and choose what to watch with friends. This policy covers the MovieNight app and movienightapp.co.uk.
 
-User account information: When you sign up for Movie Night, we collect your email address, username. and a hash of your password (if you use our inbuilt auth mechanisms).
-Watchlist information: We collect information about the movies and TV shows you add to your watchlist.
-Device information: We collect information about your device, including your device type, operating system, and IP address.
-Usage data: We collect data on how you use our app, such as which features you use and how often you use them.
+MovieNight is operated by Callum McKenzie. For questions about your information or to exercise your privacy rights, email support@movienightapp.co.uk.
 
+Information we use
 
-How we use your information:
+Account information: your account identifier, email address, display name and username. Clerk manages sign-in, account verification and authentication security. If you choose password sign-in, Clerk handles your password; MovieNight’s backend does not store it.
 
-To provide and improve our services: We use your information to provide you with personalized recommendations and improve our app.
-To communicate with you: We may use your email address to send you app-related notifications and updates.
-To prevent fraud and protect our users: We may use your information to detect and prevent fraudulent activity or unauthorized access to our app.
+Your choices: likes, dislikes, super likes, watchlist entries, preferred genres, country or viewing region, time zone and streaming providers you select. Selecting a provider does not connect us to your streaming account or give us its password or viewing history.
 
+Group activity: membership, invitations, shared watchlist choices, votes, matches and group settings. We also keep account settings and subscription or entitlement status where applicable.
 
-How we share your information:
+Technical information: service requests and operational logs may include your IP address, device or app information, account identifier, timestamps and errors. If you enable notifications, we use your device’s notification token. Messages you send to support include the details you choose to provide.
 
-With third-party service providers: We may share your information with third-party service providers who help us provide and improve our app.
-As required by law: We may disclose your information if required to do so by law, or if we believe that such action is necessary to comply with the law or protect our rights.
+When you sign in with Google
 
+Google sign-in is handled through Clerk. Google supplies basic identity information, such as your Google account identifier, email address, name and profile picture, according to the permissions shown during sign-in. Clerk uses this to authenticate you; MovieNight uses your verified identity, email and name to create and secure your app account.
 
-Data retention:
+We do not request access to your Gmail messages, contacts, Google Drive files, calendar or YouTube history. We do not receive your Google password.
 
-We will retain your information for as long as necessary to provide our services and comply with our legal obligations.
+Google account data is used for sign-in, account management and security. We do not sell it, use it for advertising or use it to train general-purpose AI models. We share it only as needed to provide authentication and our service, with your permission, or where required by law.
 
+You can remove MovieNight’s access in your Google Account’s third-party connections settings. Removing access or signing out does not by itself delete your MovieNight account or watchlist. Contact us to request deletion.
 
-Security:
+Why we use your information
 
-We take reasonable measures to protect your information from unauthorized access, disclosure, or destruction.
+We use account details, preferences and group activity to provide the service you request: signing you in, saving your choices, generating recommendations, managing invitations and helping a group pick something to watch. Where data protection law requires a lawful basis, this processing is necessary to perform our agreement with you.
 
+We use limited technical and operational information to maintain the service, investigate faults and prevent abuse. Our lawful basis is our legitimate interest in running a reliable, secure service, balanced against your rights. We may also process information to meet legal obligations. Where processing requires consent, we will ask for it and you can withdraw it.
 
-Changes to this policy:
+Recommendations use your film preferences and activity, and may combine them with those of your group. They are suggestions, not decisions with legal or similarly significant effects. You can change your preferences and group membership.
 
-We may update this policy from time to time. If we make significant changes, we will notify you by email or by posting a notice in the app.
+What other people and services can see
 
+Group members can see your group identity and shared activity, including shared watchlist entries, votes and matches. Your preferences and selected providers can influence group results. Only share group invitations with people you want to join; someone with a valid invitation may be able to join your group.
 
-Contact us:
+Clerk processes identity and session information to provide authentication. Google processes information when you use Google sign-in. Hosting and infrastructure providers process the information needed to run MovieNight. Their own privacy notices also describe their handling of information.
 
-If you have any questions or concerns about this privacy policy, please contact us at support@cjmckenzie.com.
-By using our app, you agree to the terms of this privacy policy.
+Movie information and artwork come from TMDB. Search requests may be sent to TMDB and your device may request artwork from its image service, which exposes ordinary request information such as your IP address. MovieNight does not send your account email or personal watchlist to TMDB for recommendations.
+
+We may disclose information where legally required or necessary to investigate abuse and protect people or the service. We do not sell your personal information.
+
+Storage, retention and security
+
+We keep account information and saved activity while your account is active and the information is needed to provide MovieNight. If you ask us to delete your account, we will assess and action your request, including associated authentication and app records, subject to any lawful reason to retain specific information.
+
+Operational logs, support records and backups may be retained separately where needed for security, recovery, resolving a dispute or a legal obligation. Retention depends on that purpose and the relevant provider’s storage arrangements; retained information is not kept indefinitely merely because you once had an account.
+
+Our service providers may process information outside your country. Where data protection law restricts a transfer, the applicable safeguards must be in place. You can contact us for information about the providers, locations and safeguards relevant to your account.
+
+We use access controls and authentication to protect information, but no online service can guarantee absolute security. Keep your account and device secure and tell us if you suspect unauthorised access.
+
+Cookies and device storage
+
+The public landing page and these policy pages do not use advertising cookies or load a marketing analytics service. The app and sign-in services use local storage or similar mechanisms for sessions, preferences and cached content. Hosting providers may keep ordinary request logs.
+
+Any future optional analytics or tracking that requires consent will be explained before it is enabled. You can manage device notification permissions in your device settings.
+
+Your choices and privacy rights
+
+You can update available profile and preference settings in the app. To request access, correction, deletion or a copy of your information, email support@movienightapp.co.uk from the email associated with your account. We may need to verify your identity; do not send us your password.
+
+Depending on your location and the legal basis for processing, you may also have rights to object, restrict processing, receive portable data and withdraw consent. We will respond within the period required by applicable law.
+
+You can complain to your local data protection authority. In the UK, this is the Information Commissioner’s Office at ico.org.uk. Contacting us first is welcome but is not required.
+
+Children and policy changes
+
+MovieNight is not designed for children under 13. If you believe a child has provided personal information inappropriately, contact us so we can investigate and address it.
+
+We will update this page when our practices change and update the date above. Where a change materially affects how we use your information, we will provide an appropriate notice.

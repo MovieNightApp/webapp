@@ -1,0 +1,173 @@
+{
+	"privacy": {
+		"title": "Privacy Policy",
+		"intro": "Your account, your choices and what happens to your information.",
+		"updated": "9 September 2026",
+		"sections": [
+			{
+				"id": "who-we-are",
+				"title": "Who we are",
+				"paragraphs": [
+					"MovieNight helps you discover films and TV shows, keep a watchlist and choose what to watch with friends. This policy covers the MovieNight app and movienightapp.co.uk.",
+					"MovieNight is operated by Callum McKenzie. For questions about your information or to exercise your privacy rights, email support@movienightapp.co.uk."
+				]
+			},
+			{
+				"id": "information",
+				"title": "Information we use",
+				"paragraphs": [
+					"Account information: your account identifier, email address, display name and username. Clerk manages sign-in, account verification and authentication security. If you choose password sign-in, Clerk handles your password; MovieNight’s backend does not store it.",
+					"Your choices: likes, dislikes, super likes, watchlist entries, preferred genres, country or viewing region, time zone and streaming providers you select. Selecting a provider does not connect us to your streaming account or give us its password or viewing history.",
+					"Group activity: membership, invitations, shared watchlist choices, votes, matches and group settings. We also keep account settings and subscription or entitlement status where applicable.",
+					"Technical information: service requests and operational logs may include your IP address, device or app information, account identifier, timestamps and errors. If you enable notifications, we use your device’s notification token. Messages you send to support include the details you choose to provide."
+				]
+			},
+			{
+				"id": "google",
+				"title": "When you sign in with Google",
+				"paragraphs": [
+					"Google sign-in is handled through Clerk. Google supplies basic identity information, such as your Google account identifier, email address, name and profile picture, according to the permissions shown during sign-in. Clerk uses this to authenticate you; MovieNight uses your verified identity, email and name to create and secure your app account.",
+					"We do not request access to your Gmail messages, contacts, Google Drive files, calendar or YouTube history. We do not receive your Google password.",
+					"Google account data is used for sign-in, account management and security. We do not sell it, use it for advertising or use it to train general-purpose AI models. We share it only as needed to provide authentication and our service, with your permission, or where required by law.",
+					"You can remove MovieNight’s access in your Google Account’s third-party connections settings. Removing access or signing out does not by itself delete your MovieNight account or watchlist. Contact us to request deletion."
+				]
+			},
+			{
+				"id": "purposes",
+				"title": "Why we use your information",
+				"paragraphs": [
+					"We use account details, preferences and group activity to provide the service you request: signing you in, saving your choices, generating recommendations, managing invitations and helping a group pick something to watch. Where data protection law requires a lawful basis, this processing is necessary to perform our agreement with you.",
+					"We use limited technical and operational information to maintain the service, investigate faults and prevent abuse. Our lawful basis is our legitimate interest in running a reliable, secure service, balanced against your rights. We may also process information to meet legal obligations. Where processing requires consent, we will ask for it and you can withdraw it.",
+					"Recommendations use your film preferences and activity, and may combine them with those of your group. They are suggestions, not decisions with legal or similarly significant effects. You can change your preferences and group membership."
+				]
+			},
+			{
+				"id": "sharing",
+				"title": "What other people and services can see",
+				"paragraphs": [
+					"Group members can see your group identity and shared activity, including shared watchlist entries, votes and matches. Your preferences and selected providers can influence group results. Only share group invitations with people you want to join; someone with a valid invitation may be able to join your group.",
+					"Clerk processes identity and session information to provide authentication. Google processes information when you use Google sign-in. Hosting and infrastructure providers process the information needed to run MovieNight. Their own privacy notices also describe their handling of information.",
+					"Movie information and artwork come from TMDB. Search requests may be sent to TMDB and your device may request artwork from its image service, which exposes ordinary request information such as your IP address. MovieNight does not send your account email or personal watchlist to TMDB for recommendations.",
+					"We may disclose information where legally required or necessary to investigate abuse and protect people or the service. We do not sell your personal information."
+				]
+			},
+			{
+				"id": "storage",
+				"title": "Storage, retention and security",
+				"paragraphs": [
+					"We keep account information and saved activity while your account is active and the information is needed to provide MovieNight. If you ask us to delete your account, we will assess and action your request, including associated authentication and app records, subject to any lawful reason to retain specific information.",
+					"Operational logs, support records and backups may be retained separately where needed for security, recovery, resolving a dispute or a legal obligation. Retention depends on that purpose and the relevant provider’s storage arrangements; retained information is not kept indefinitely merely because you once had an account.",
+					"Our service providers may process information outside your country. Where data protection law restricts a transfer, the applicable safeguards must be in place. You can contact us for information about the providers, locations and safeguards relevant to your account.",
+					"We use access controls and authentication to protect information, but no online service can guarantee absolute security. Keep your account and device secure and tell us if you suspect unauthorised access."
+				]
+			},
+			{
+				"id": "device-storage",
+				"title": "Cookies and device storage",
+				"paragraphs": [
+					"The public landing page and these policy pages do not use advertising cookies or load a marketing analytics service. The app and sign-in services use local storage or similar mechanisms for sessions, preferences and cached content. Hosting providers may keep ordinary request logs.",
+					"Any future optional analytics or tracking that requires consent will be explained before it is enabled. You can manage device notification permissions in your device settings."
+				]
+			},
+			{
+				"id": "rights",
+				"title": "Your choices and privacy rights",
+				"paragraphs": [
+					"You can update available profile and preference settings in the app. To request access, correction, deletion or a copy of your information, email support@movienightapp.co.uk from the email associated with your account. We may need to verify your identity; do not send us your password.",
+					"Depending on your location and the legal basis for processing, you may also have rights to object, restrict processing, receive portable data and withdraw consent. We will respond within the period required by applicable law.",
+					"You can complain to your local data protection authority. In the UK, this is the Information Commissioner’s Office at ico.org.uk. Contacting us first is welcome but is not required."
+				]
+			},
+			{
+				"id": "children-changes",
+				"title": "Children and policy changes",
+				"paragraphs": [
+					"MovieNight is not designed for children under 13. If you believe a child has provided personal information inappropriately, contact us so we can investigate and address it.",
+					"We will update this page when our practices change and update the date above. Where a change materially affects how we use your information, we will provide an appropriate notice."
+				]
+			}
+		]
+	},
+	"terms": {
+		"title": "Terms of Service",
+		"intro": "A few ground rules for finding your next film together.",
+		"updated": "9 September 2026",
+		"sections": [
+			{
+				"id": "service",
+				"title": "Using MovieNight",
+				"paragraphs": [
+					"These terms apply to the MovieNight app and website, operated by Callum McKenzie. By using MovieNight, you agree to these terms. Contact support@movienightapp.co.uk if you have questions.",
+					"MovieNight helps you discover films and TV shows, save choices and make plans with a group. It does not host or supply films, sell streaming access or guarantee that a title is available on a particular service.",
+					"You must be at least 13 and meet any higher minimum age required where you live. If you are not old enough to enter an agreement yourself, use MovieNight only with the permission of a parent or guardian."
+				]
+			},
+			{
+				"id": "account",
+				"title": "Your account",
+				"paragraphs": [
+					"Provide accurate account information and keep your sign-in methods secure. Clerk provides authentication; Google’s terms also apply when you choose Google sign-in. Do not impersonate others, share an account without authorisation or use someone else’s credentials.",
+					"Tell us if you suspect someone has accessed your account without permission. We may take proportionate steps to secure an account or limit access while we investigate."
+				]
+			},
+			{
+				"id": "groups",
+				"title": "Groups and shared choices",
+				"paragraphs": [
+					"Share invitations responsibly and respect the people in your group. Members can see the identity and activity you share through group features. Group administrators can manage membership and settings, which may change the recommendations you see.",
+					"You remain responsible for anything you contribute. You give MovieNight permission to store, process and display those contributions as needed to provide the features you use. This does not transfer ownership of your content to us."
+				]
+			},
+			{
+				"id": "availability",
+				"title": "Recommendations and where to watch",
+				"paragraphs": [
+					"Recommendations reflect preferences, votes and available catalogue data; they are not a promise that everyone will enjoy a title. Release dates, ratings, availability and provider information can be incomplete or change. Check the streaming service before making plans or paying.",
+					"A group member selecting a streaming provider is not proof of a current subscription. Each streaming provider’s own pricing, regional restrictions and account-sharing rules apply. MovieNight does not authorise access that the provider does not permit."
+				]
+			},
+			{
+				"id": "conduct",
+				"title": "Keep it respectful",
+				"paragraphs": [
+					"Do not use MovieNight to harass people, distribute unlawful material, infringe intellectual property or invade someone’s privacy. Do not misuse invitations, automate abusive requests, bypass access controls or interfere with the service.",
+					"We may remove content or restrict accounts where reasonably necessary to address abuse, security risks or legal requirements. Where appropriate, we will explain the reason and provide a way to contact us about the decision."
+				]
+			},
+			{
+				"id": "paid",
+				"title": "Paid features",
+				"paragraphs": [
+					"If paid features are offered, their price, billing period and any renewal terms will be shown before purchase. The purchase provider’s payment, cancellation and refund procedures also apply. Nothing here limits mandatory consumer rights.",
+					"Cancelling a subscription and deleting an app account are separate actions. Manage a store-billed subscription through the relevant app store; contact us if you need help identifying where it is managed."
+				]
+			},
+			{
+				"id": "ownership",
+				"title": "Artwork and other services",
+				"paragraphs": [
+					"MovieNight’s branding and software belong to their respective owners. Film artwork, titles and other catalogue material belong to their rights holders. MovieNight uses TMDB data but is not endorsed or certified by TMDB.",
+					"Links and integrations with Clerk, Google, TMDB and streaming services are subject to those services’ terms and privacy notices. We are not responsible for services we do not operate."
+				]
+			},
+			{
+				"id": "changes",
+				"title": "Availability, changes and leaving",
+				"paragraphs": [
+					"MovieNight is under development. Features may change or be temporarily unavailable during maintenance or testing. We will communicate material changes where appropriate and honour any rights that apply to paid services.",
+					"You can stop using MovieNight at any time and request account deletion at support@movienightapp.co.uk. Our Privacy Policy explains how we handle associated information. Signing out or removing Google access alone does not delete an account.",
+					"We may update these terms as the service changes. The date above identifies this version. We will give appropriate notice of material changes before they apply where required."
+				]
+			},
+			{
+				"id": "rights",
+				"title": "Your legal rights",
+				"paragraphs": [
+					"We aim to provide MovieNight with reasonable care and skill. We cannot guarantee uninterrupted service, perfect recommendations or completely accurate third-party catalogue information.",
+					"Nothing in these terms excludes or limits liability that cannot lawfully be excluded, including liability for fraud or death or personal injury caused by negligence. Your mandatory consumer rights and any protections that apply in your country remain in place.",
+					"If something goes wrong, contact support@movienightapp.co.uk so we can try to resolve it. These terms do not prevent you from using any complaint or legal remedy available to you."
+				]
+			}
+		]
+	}
+}
