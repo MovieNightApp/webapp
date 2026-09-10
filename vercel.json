@@ -1,6 +1,22 @@
 {
   "rewrites": [
     {
+      "source": "/challenge",
+      "destination": "/api/challenge?target=page&path="
+    },
+    {
+      "source": "/challenge/:path*",
+      "destination": "/api/challenge?target=page&path=:path*"
+    },
+    {
+      "source": "/api/challenges",
+      "destination": "/api/challenge?target=data&path="
+    },
+    {
+      "source": "/api/challenges/:path*",
+      "destination": "/api/challenge?target=data&path=:path*"
+    },
+    {
       "source": "/(.*)",
       "destination": "/"
     }
