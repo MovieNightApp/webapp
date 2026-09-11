@@ -1,43 +1,28 @@
-import { RouterProvider, createRouter } from "@tanstack/react-router";
-import { StrictMode } from "react";
+import { lazy, StrictMode, Suspense } from "react";
 import ReactDOM from "react-dom/client";
+import LandingPage from "./components/landing/landing-page";
 import "./index.css";
+import LegalPage from "./components/legal/legal-page";
+const publicPath = window.location.pathname.replace(/\/$/, "") || "/";
+const legalKind =
+	publicPath === "/privacy" || publicPath === "/privacy-policy.txt"
+		? "privacy"
+		: publicPath === "/terms"
+			? "terms"
+			: null;
 
-// Import the generated route tree
-import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
-import { routeTree } from "./routeTree.gen";
-
-// Create a new router instance
-const router = createRouter({
-  routeTree,
-  defaultPreload: "intent",
-  context: { auth: undefined! },
-});
-
-// Register the router instance for type safety
-declare module "@tanstack/react-router" {
-  interface Register {
-    router: typeof router;
-  }
-}
-
-const queryClient = new QueryClient();
-
-function App() {
-  return (
-    <QueryClientProvider client={queryClient}>
-      <RouterProvider router={router} />
-    </QueryClientProvider>
-  );
-}
-
-// Render the app
-const rootElement = document.getElementById("root")!;
-if (!rootElement.innerHTML) {
-  const root = ReactDOM.createRoot(rootElement);
-  root.render(
-    <StrictMode>
-      <App />
-    </StrictMode>
-  );
-}
+// The public page needs neither authentication nor the legacy web-app dependencies.
+const AppClient = lazy(() => import("./app-client"));
+ReactDOM.createRoot(document.getElementById("root")!).render(
+	<StrictMode>
+		{publicPath === "/" ? (
+			<LandingPage />
+		) : legalKind ? (
+			<LegalPage kind={legalKind} />
+		) : (
+			<Suspense fallback={<p role="status">Loading MovieNight…</p>}>
+				<AppClient />
+			</Suspense>
+		)}
+	</StrictMode>,
+);
